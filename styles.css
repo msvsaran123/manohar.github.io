@@ -1,0 +1,159 @@
+body{
+     font-family:times,arial,serif;
+}
+
+header{
+     background-color:Black;
+     color:white;
+     padding:10;
+     margins:0;
+     overflow:hidden;
+}
+
+header img{
+       float:left;
+       width:100px;
+       height:100px;
+       margin-right:10px;
+}
+
+header h1{
+        padding:0;
+        margin:0;
+        font-size:2.2em;
+}
+
+header h2{
+        padding:0;
+        margin:0;
+        font-size:1.2em;
+}
+
+.nav ul{
+      list-style-type:none;
+      background-color:grey;
+      margin:0;
+      padding:0;
+      overflow:hidden;
+}
+
+.nav li{
+     float:left;
+}
+
+.nav li a{
+     background-color:red;
+     text-decoration:none;
+     padding:10px 25px;
+     display:block;
+     color:blue;
+}
+
+.nav li a:hover{
+     background-color:blue;
+     color:white;
+}
+
+.content{
+    padding:0 10px;
+    border:2px solid black;
+}
+
+.content h1{
+      margin:5px 0 0 0;
+      font-size:1.6em;
+      color:#540055;
+      
+}
+
+
+span{ 
+      float:right;
+      padding:10px;
+      margin:10px;
+      border-style:solid inset ;
+      border-width:10px;
+      border-color:blue red;
+      box-shadow:2px 3px 3px 2px;
+      overflow:hidden;
+}
+
+i1 img{
+     margin:10px;
+     border-style:groove;
+     border-width:10px;
+     border-color:yellow green;
+     box-shadow:2px 3px 3px 2px;
+    
+}
+
+i2 img{
+     margin:10px;
+     border-style:double;
+     border-width:10px;
+     border-color:red green;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+i3 img{
+     margin:10px;
+     border-style:dashed;
+     border-width:10px;
+     border-color:red yellow;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+i4 img{
+     margin:10px;
+     border-style:dotted;
+     border-width:10px;
+     border-color:blue yellow;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+i5 img{
+     margin:10px;
+     border-style:inset;
+     border-width:10px;
+     border-color:#aa6d6d;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+i6 img{
+     margin:10px;
+     border-style:outset;
+     border-width:10px;
+     border-color:#760b8e;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+i7 img{
+     margin:10px;
+     border-style:double solid;
+     border-width:10px;
+     border-color:#85b2ad;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+
+i8 img{
+     margin:10px;
+     border-style:groove double;
+     border-width:10px;
+     border-color:#d3ca63;
+     box-shadow:2px 3px 3px 2px;
+     
+}
+
+.footer{
+    padding:0 10px;
+    color:black;
+}
+
+
